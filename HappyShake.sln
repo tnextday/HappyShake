@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HappyShake", "HappyShake\HappyShake.vcproj", "{C547395C-28AF-4C83-9DDA-38ACF616AFCE}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|M8SDK (ARMV4I) = Debug|M8SDK (ARMV4I)
+		Release|M8SDK (ARMV4I) = Release|M8SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C547395C-28AF-4C83-9DDA-38ACF616AFCE}.Debug|M8SDK (ARMV4I).ActiveCfg = Debug|M8SDK (ARMV4I)
+		{C547395C-28AF-4C83-9DDA-38ACF616AFCE}.Debug|M8SDK (ARMV4I).Build.0 = Debug|M8SDK (ARMV4I)
+		{C547395C-28AF-4C83-9DDA-38ACF616AFCE}.Debug|M8SDK (ARMV4I).Deploy.0 = Debug|M8SDK (ARMV4I)
+		{C547395C-28AF-4C83-9DDA-38ACF616AFCE}.Release|M8SDK (ARMV4I).ActiveCfg = Release|M8SDK (ARMV4I)
+		{C547395C-28AF-4C83-9DDA-38ACF616AFCE}.Release|M8SDK (ARMV4I).Build.0 = Release|M8SDK (ARMV4I)
+		{C547395C-28AF-4C83-9DDA-38ACF616AFCE}.Release|M8SDK (ARMV4I).Deploy.0 = Release|M8SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

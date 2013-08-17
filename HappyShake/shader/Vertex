@@ -1,0 +1,13 @@
+precision highp float;
+
+attribute vec4 a_vertexPos;
+attribute vec2 a_texCoord;
+
+uniform mat4 mvp;
+varying vec2 v_texC;
+
+void main()
+{
+   gl_Position = mvp * a_vertexPos;
+   v_texC = a_texCoord;
+}
